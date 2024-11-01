@@ -23,5 +23,4 @@ CREATE TABLE employees (
     name VARCHAR(100) NOT NULL,
     position VARCHAR(100) NOT NULL,
     salary DECIMAL(10, 2) NOT NULL,
-    hire_date DATE NOT NULL
 );
